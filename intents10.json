@@ -1,0 +1,125 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "haha",
+      "patterns": [
+        "haha",
+        "lol",
+        "rofl",
+        "lmao",
+        "thats funny"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "A perfectionist walked into a bar...apparently, the bar wasn't set high enough",
+        "I ate a clock yesterday, it was very time-consuming",
+        "Never criticize someone until you've walked a mile in their shoes. That way, when you criticize them, they won't be able to hear you from that far away. Plus, you'll have their shoes.",
+        "The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.",
+        "I own the world's worst thesaurus. Not only is it awful, it's awful.",
+        "What did the traffic light say to the car? \"Don't look now, I'm changing.\"",
+        "What do you call a snowman with a suntan? A puddle.",
+        "How does a penguin build a house? Igloos it together",
+        "I went to see the doctor about my short-term memory problems – the first thing he did was make me pay in advance",
+        "As I get older and I remember all the people I’ve lost along the way, I think to myself, maybe a career as a tour guide wasn’t for me.",
+        "what if I don't know what 'Armageddon' means? It's not the end of the world."
+      ]
+    },
+    {
+      "tag": "songs",
+      "patterns": [
+        "Share me a song and its lyrics",
+        "what is your favorite song?",
+        "Any songs recommended?"
+      ],
+      "responses": [
+        "Unique Skill: you have god blessing, once you talk feels, get someone killed",
+        "Celestial: We were made to be,Nothing more than this,Finding magic in all the smallest things,When we notice that’s what really matters is,Make tonight go on and on and on",
+        "Take Me To Church: If I'm a pagan of the good times,My lover's the sunlight,To keep the goddess on my side,She demands a sacrifice,Drain the whole sea,Get something shiny",
+        "I'm moving through stages in different places,The one thing that's constant are all of these changes,Oh why,Why is it so easy to fall,I get up and then,I funk up again,And my heart is way too vulnerable I just can't explain,Must be growing pains",
+        "So I'm leaving out the front door,So step right out, there is no amount,Of crying I can do for you,All this time, We always walked a very thin line,You didn't even hear me out ,You never gave a warning sign",
+      ]
+    },
+    {
+      "tag": "poems",
+      "patterns": [
+        "What poems do you know?",
+        "Heard of some poems?",
+        "Any poems from nowadays?"
+      ],
+      "responses": [
+        "I only wish to face the sea, with spring flowers blossoming.",
+        "If you were a teardrop;In my eye,For fear of losing you,I would never cry.And if the golden sun,Should cease to shine its light,Just one smile from you,Would make my whole world bright.",
+        "Take Me To Church,A-amen amen amen,Take me to church,I'll worship like a dog at the shrine of your lies,I'll tell you my sins and you can sharpen your knife,Offer me that deathless death"
+      ]
+    }
+  ]
+}
